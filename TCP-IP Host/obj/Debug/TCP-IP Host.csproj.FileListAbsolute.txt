@@ -1,0 +1,7 @@
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\bin\Debug\TCP-IP Host.exe.config
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\bin\Debug\TCP-IP Host.exe
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\bin\Debug\TCP-IP Host.pdb
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\obj\Debug\TCP-IP Host.csprojAssemblyReference.cache
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\obj\Debug\TCP-IP Host.csproj.CoreCompileInputs.cache
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\obj\Debug\TCP-IP Host.exe
+C:\Users\adasn\source\repos\TCP-IP Host\TCP-IP Host\obj\Debug\TCP-IP Host.pdb
